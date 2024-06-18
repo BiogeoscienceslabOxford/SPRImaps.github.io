@@ -12,3 +12,7 @@ Here you can see the south shetland islands
 ![Map Screenshot1](SI_Screenshot.JPG)
 
 You can view the interactive map [here](https://SPRImaps.github.io/SPRI_Map_SI.html)).
+
+git add README.md
+git commit -m "Update README with map"
+git push origin main
