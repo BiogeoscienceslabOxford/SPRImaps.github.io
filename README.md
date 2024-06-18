@@ -9,6 +9,6 @@ You can view the interactive map [here](https://BiogeoscienceslabOxford.github.i
 
 Here you can see the south shetland islands
 
-![Map Screenshot1](SI_screenshot.JPG)
+![Map Screenshot1](SI_Screenshot.JPG)
 
 You can view the interactive map [here](https://BiogeoscienceslabOxford.github.io/SPRI_Map_SI.html)).
